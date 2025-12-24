@@ -6,11 +6,13 @@ I love being creative, designing and building applications I'm passionate about 
 Seeing how random ideas can develop and grow over time is always fun.
 
 My current tech stack is:
-🦀 Rust
-🐍 Python
-🩵 Typescript
-💨 Tailwind 
-⭐ React
+<ul>
+  <li>🦀 Rust</li>
+  <li>🐍 Python</li>
+  <li>🩵 Typescript</li>
+  <li>💨 Tailwind </li>
+  <li>⭐ React</li>
+</ul>
 
 Asides from that my favourite tools are blender and aseprite.
 
