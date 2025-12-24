@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 😌
 
-<!--
-**Malgorzata-Serbin/Malgorzata-Serbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Malgorzata, a computer science and math student at The University of Manchester.
 
-Here are some ideas to get you started:
+I love being creative, designing and building applications I'm passionate about is something I can't live without.
+Seeing how random ideas can develop and grow over time is always fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack is:
+🦀 Rust
+🐍 Python
+🩵 Typescript
+💨 Tailwind 
+⭐ React
+
+Asides from that my favourite tools are blender and aseprite.
+
+Random facts about me:
+♡ In my free time I enjoy reading manga 
+♡ I know how to juggle
+♡ Travelling the world excites me 
+♡ I think pet rats are very cute
