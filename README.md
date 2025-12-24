@@ -17,6 +17,7 @@ My current tech stack is:
 Asides from that my favourite tools are blender and aseprite.
 
 Random facts about me:<br>
+
 ♡ In my free time I enjoy reading manga <br>
 ♡ I know how to juggle <br>
 ♡ Travelling the world excites me <br>
