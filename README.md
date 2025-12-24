@@ -2,7 +2,7 @@
 
 I'm Malgorzata, a computer science and math student at The University of Manchester.
 
-I love being creative, designing and building applications I'm passionate about is something I can't live without.
+I love being creative, designing and building applications I'm passionate about is something I can't live without. <br>
 Seeing how random ideas can develop and grow over time is always fun.
 
 My current tech stack is:
